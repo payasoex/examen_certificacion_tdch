@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <title>Prueba de Certificacion</title>
+</head>
+<body>
+  <div class="container d-flex flex-column align-items-center mt-5">
+    <form>
+      <div class="form-group">
+        <div class="row">
+          <div class="col">
+            <label class="visually-hidden" for="name">Name</label>
+            <input type="text" class="form-control" placeholder="Name" id="name">
+          </div>
+          <div class="col">
+            <label class="visually-hidden" for="group-name">Group Name</label>
+            <input type="text" class="form-control" placeholder="Group Name" id="group-name">
+          </div>
+          <div class="col">
+            <label class="visually-hidden" for="rango-fecha-inicio">Fecha Rango Inicio</label>
+            <input type="text" class="form-control" placeholder="Fecha Rango Inicio" id="rango-fecha-inicio">
+          </div>
+          <div class="col">
+            <label class="visually-hidden" for="rango-fecha-termino">Fecha Rango Termino</label>
+            <input type="text" class="form-control" placeholder="Fecha Rango Termino" id="rango-fecha-termino">
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="row mt-2">
+          <div class="col-">
+            <button type="submit" class="btn btn-primary w-100" id="btn">Filtrar</button>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="container mt-5">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">department id</th>
+                <th scope="col">name</th>
+                <th scope="col">group name</th>
+                <th scope="col">businessentityid</th>
+                <th scope="col">start date</th>
+            </tr>
+        </thead>
+        <tbody id="render-data">
+            <!-- render filas -->
+            
+        </tbody>
+      </table>
+    <div></div>
+  <script src="./assets/main.js"></script>
+</body>
+</html>

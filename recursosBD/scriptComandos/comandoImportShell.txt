@@ -1,0 +1,21 @@
+-- comando en la shell de postgres
+-- seleccionar la base de datos para insertar registros
+-- \c nombreBaseDeDatos
+-- comandos para insertar registros desde los archivos csv adjuntos
+-- Tabla person
+-- \COPY person FROM 'path del archivo\person.csv' WITH (FORMAT CSV, DELIMITER ';', HEADER);
+-- Tabla employee
+-- \COPY employee FROM 'path del archivo\employee.csv' WITH (FORMAT CSV, DELIMITER ';', HEADER);
+-- Tabla shift
+-- \COPY shift FROM 'path del archivo\shift.csv' WITH (FORMAT CSV, DELIMITER ';', HEADER);
+-- Tabla department
+-- \COPY department FROM 'path del archivo\department.csv' WITH (FORMAT CSV, DELIMITER ';', HEADER);
+-- Tabla employeedepartmenthistory
+-- \COPY employeedepartmenthistory(BusinessEntityID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate) FROM 'path del archivo\employeedepartmenthistory.csv' WITH (FORMAT CSV, null "NULL", DELIMITER ';', HEADER);
+-- Tabla employeepayhistory
+-- \COPY employeepayhistory(businessentityid, ratechangedate, rate, payfrequency, modifieddate) FROM 'path del archivo\employeepayhistory.csv' WITH (FORMAT CSV, DeLIMITER ';', HEADER);
+
+-- Comando generales, no es necesario ejecutarlos, son solo ejemplos
+-- \COPY nombretabla FROM 'path archivo' WITH (FORMAT CSV, DELIMITER ';', HEADER);
+-- \COPY nombretabla(BusinessEntityID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate) FROM 'path archivo' WITH (FORMAT CSV, DeLIMITER ';', HEADER);
+-- \COPY nombretabla(BusinessEntityID, DepartmentID, ShiftID, StartDate, EndDate, ModifiedDate) FROM 'path archivo' WITH (FORMAT CSV, null "NULL", DeLIMITER ';', HEADER);

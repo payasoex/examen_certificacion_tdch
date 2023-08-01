@@ -1,0 +1,291 @@
+﻿businessentityid;nationalidnumber;loginid;jobtitle;birthdate;maritalstatus;gender;hiredate;salariedflag;vacationhours;sickleavehours;currentflag;modifieddate;organizationnode
+1;295847284;adventure-works\ken0;Chief Executive Officer;29-01-1969;S;M;14-01-2009;1;99;69;1;2014-06-30 00:00:00.000;NULL
+2;245797967;adventure-works\terri0;Vice President of Engineering;01-08-1971;S;F;31-01-2008;1;1;20;1;2014-06-30 00:00:00.000;0x58
+3;509647174;adventure-works\roberto0;Engineering Manager;12-11-1974;M;M;11-11-2007;1;2;21;1;2014-06-30 00:00:00.000;0x5AC0
+4;112457891;adventure-works\rob0;Senior Tool Designer;23-12-1974;S;M;05-12-2007;0;48;80;1;2014-06-30 00:00:00.000;0x5AD6
+5;695256908;adventure-works\gail0;Design Engineer;27-09-1952;M;F;06-01-2008;1;5;22;1;2014-06-30 00:00:00.000;0x5ADA
+6;998320692;adventure-works\jossef0;Design Engineer;11-03-1959;M;M;24-01-2008;1;6;23;1;2014-06-30 00:00:00.000;0x5ADE
+7;134969118;adventure-works\dylan0;Research and Development Manager;24-02-1987;M;M;08-02-2009;1;61;50;1;2014-06-30 00:00:00.000;0x5AE1
+8;811994146;adventure-works\diane1;Research and Development Engineer;05-06-1986;S;F;29-12-2008;1;62;51;1;2014-06-30 00:00:00.000;0x5AE158
+9;658797903;adventure-works\gigi0;Research and Development Engineer;21-01-1979;M;F;16-01-2009;1;63;51;1;2014-06-30 00:00:00.000;0x5AE168
+10;879342154;adventure-works\michael6;Research and Development Manager;30-11-1984;M;M;03-05-2009;1;16;64;1;2014-06-30 00:00:00.000;0x5AE178
+11;974026903;adventure-works\ovidiu0;Senior Tool Designer;17-01-1978;S;M;05-12-2010;0;7;23;1;2014-06-30 00:00:00.000;0x5AE3
+12;480168528;adventure-works\thierry0;Tool Designer;29-07-1959;M;M;11-12-2007;0;9;24;1;2014-06-30 00:00:00.000;0x5AE358
+13;486228782;adventure-works\janice0;Tool Designer;28-05-1989;M;F;23-12-2010;0;8;24;1;2014-06-30 00:00:00.000;0x5AE368
+14;42487730;adventure-works\michael8;Senior Design Engineer;16-06-1979;S;M;30-12-2010;1;3;21;1;2014-06-30 00:00:00.000;0x5AE5
+15;56920285;adventure-works\sharon0;Design Engineer;02-05-1961;M;F;18-01-2011;1;4;22;1;2014-06-30 00:00:00.000;0x5AE7
+16;24756624;adventure-works\david0;Marketing Manager;19-03-1975;S;M;20-12-2007;1;40;40;1;2014-06-30 00:00:00.000;0x68
+17;253022876;adventure-works\kevin0;Marketing Assistant;03-05-1987;S;M;26-01-2007;0;42;41;1;2014-06-30 00:00:00.000;0x6AC0
+18;222969461;adventure-works\john5;Marketing Specialist;06-03-1978;S;M;07-02-2011;0;48;44;1;2014-06-30 00:00:00.000;0x6B40
+19;52541318;adventure-works\mary2;Marketing Assistant;29-01-1978;S;F;14-02-2011;0;43;41;1;2014-06-30 00:00:00.000;0x6BC0
+20;323403273;adventure-works\wanida0;Marketing Assistant;17-03-1975;M;F;07-01-2011;0;41;40;1;2014-06-30 00:00:00.000;0x6C20
+21;243322160;adventure-works\terry0;Marketing Specialist;04-02-1986;M;M;02-03-2009;0;44;42;1;2014-06-30 00:00:00.000;0x6C60
+22;95958330;adventure-works\sariya0;Marketing Specialist;21-05-1987;S;M;12-12-2008;0;45;42;1;2014-06-30 00:00:00.000;0x6CA0
+23;767955365;adventure-works\mary0;Marketing Specialist;13-09-1962;M;F;12-01-2009;0;46;43;1;2014-06-30 00:00:00.000;0x6CE0
+24;72636981;adventure-works\jill0;Marketing Specialist;18-06-1979;M;F;18-01-2009;0;47;43;1;2014-06-30 00:00:00.000;0x6D10
+25;519899904;adventure-works\james1;Vice President of Production;07-01-1983;S;M;03-02-2009;1;64;52;1;2014-06-30 00:00:00.000;0x78
+26;277173473;adventure-works\peter0;Production Control Manager;03-11-1982;M;M;01-12-2008;1;43;41;1;2014-12-26 09:17:08.637;0x7AC0
+27;446466105;adventure-works\jo0;Production Supervisor - WC60;08-10-1956;S;F;27-02-2008;0;80;60;1;2014-06-30 00:00:00.000;0x7AD6
+28;14417807;adventure-works\guy1;Production Technician - WC60;13-03-1988;M;M;30-06-2006;0;21;30;1;2014-06-30 00:00:00.000;0x7AD6B0
+29;948320468;adventure-works\mark1;Production Technician - WC60;25-09-1979;S;M;23-01-2009;0;19;29;1;2014-06-30 00:00:00.000;0x7AD6D0
+30;410742000;adventure-works\britta0;Production Technician - WC60;28-09-1989;M;F;29-01-2009;0;14;27;1;2014-06-30 00:00:00.000;0x7AD6F0
+31;750246141;adventure-works\margie0;Production Technician - WC60;20-05-1986;M;F;04-01-2009;0;18;29;1;2014-06-30 00:00:00.000;0x7AD708
+32;330211482;adventure-works\rebecca0;Production Technician - WC60;10-07-1977;M;F;29-12-2008;0;23;31;1;2014-06-30 00:00:00.000;0x7AD718
+33;801758002;adventure-works\annik0;Production Technician - WC60;26-12-1976;M;M;17-12-2008;0;17;28;1;2014-06-30 00:00:00.000;0x7AD728
+34;754372876;adventure-works\suchitra0;Production Technician - WC60;10-06-1987;M;F;16-02-2009;0;15;27;1;2014-06-30 00:00:00.000;0x7AD738
+35;999440576;adventure-works\brandon0;Production Technician - WC60;10-01-1977;M;M;08-02-2009;0;22;31;1;2014-06-30 00:00:00.000;0x7AD744
+36;788456780;adventure-works\jose0;Production Technician - WC60;31-07-1984;M;M;10-02-2009;0;20;30;1;2014-06-30 00:00:00.000;0x7AD74C
+37;442121106;adventure-works\chris2;Production Technician - WC60;07-08-1986;S;M;07-03-2009;0;16;28;1;2014-06-30 00:00:00.000;0x7AD754
+38;6298838;adventure-works\kim1;Production Technician - WC60;14-12-1966;M;F;16-01-2010;0;24;32;1;2014-06-30 00:00:00.000;0x7AD75C
+39;461786517;adventure-works\ed0;Production Technician - WC60;11-09-1971;S;M;05-02-2010;0;25;32;1;2014-06-30 00:00:00.000;0x7AD764
+40;309738752;adventure-works\jolynn0;Production Supervisor - WC60;16-01-1956;S;F;26-12-2007;0;82;61;1;2014-06-30 00:00:00.000;0x7ADA
+41;458159238;adventure-works\bryan0;Production Technician - WC60;27-08-1973;S;M;21-01-2009;0;35;37;1;2014-06-30 00:00:00.000;0x7ADAB0
+42;339712426;adventure-works\james0;Production Technician - WC60;25-07-1984;M;M;27-12-2008;0;39;39;1;2014-06-30 00:00:00.000;0x7ADAD0
+43;693325305;adventure-works\nancy0;Production Technician - WC60;19-11-1988;M;F;02-01-2009;0;34;37;1;2014-06-30 00:00:00.000;0x7ADAF0
+44;276751903;adventure-works\simon0;Production Technician - WC60;17-05-1990;S;M;08-12-2008;0;38;39;1;2014-06-30 00:00:00.000;0x7ADB08
+45;500412746;adventure-works\thomas0;Production Technician - WC60;10-01-1986;M;M;26-02-2009;0;37;38;1;2014-06-30 00:00:00.000;0x7ADB18
+46;66073987;adventure-works\eugene1;Production Technician - WC60;10-02-1976;S;M;08-02-2009;0;36;38;1;2014-06-30 00:00:00.000;0x7ADB28
+47;33237992;adventure-works\andrew0;Production Supervisor - WC10;06-09-1988;S;M;22-02-2009;0;65;52;1;2014-06-30 00:00:00.000;0x7ADE
+48;690627818;adventure-works\ruth0;Production Technician - WC10;04-06-1956;M;F;06-01-2008;0;83;61;1;2014-06-30 00:00:00.000;0x7ADEB0
+49;912265825;adventure-works\barry0;Production Technician - WC10;26-03-1956;S;M;07-01-2008;0;88;64;1;2014-06-30 00:00:00.000;0x7ADED0
+50;844973625;adventure-works\sidney0;Production Technician - WC10;30-08-1956;M;M;02-02-2008;0;84;62;1;2014-06-30 00:00:00.000;0x7ADEF0
+51;132674823;adventure-works\jeffrey0;Production Technician - WC10;11-07-1956;S;M;20-02-2008;0;85;62;1;2014-06-30 00:00:00.000;0x7ADF08
+52;565090917;adventure-works\doris0;Production Technician - WC10;04-04-1956;M;F;10-03-2008;0;86;63;1;2014-06-30 00:00:00.000;0x7ADF18
+53;9659517;adventure-works\diane0;Production Technician - WC10;29-03-1956;M;F;28-03-2008;0;87;63;1;2014-06-30 00:00:00.000;0x7ADF28
+54;109272464;adventure-works\bonnie0;Production Technician - WC10;10-09-1986;M;F;01-01-2010;0;89;64;1;2014-06-30 00:00:00.000;0x7ADF38
+55;233069302;adventure-works\taylor0;Production Supervisor - WC50;01-04-1956;M;M;08-02-2008;0;79;59;1;2014-06-30 00:00:00.000;0x7AE1
+56;652535724;adventure-works\denise0;Production Technician - WC50;06-07-1988;M;F;05-02-2009;0;9;24;1;2014-06-30 00:00:00.000;0x7AE158
+57;10708100;adventure-works\frank1;Production Technician - WC50;24-07-1971;S;M;23-02-2009;0;10;25;1;2014-06-30 00:00:00.000;0x7AE168
+58;571658797;adventure-works\kendall0;Production Technician - WC50;30-05-1986;M;M;05-12-2008;0;11;25;1;2014-06-30 00:00:00.000;0x7AE178
+59;843479922;adventure-works\bob0;Production Technician - WC50;16-08-1979;S;M;24-12-2008;0;12;26;1;2014-06-30 00:00:00.000;0x7AE184
+60;827686041;adventure-works\pete0;Production Technician - WC50;03-02-1977;S;M;11-01-2009;0;13;26;1;2014-06-30 00:00:00.000;0x7AE18C
+61;92096924;adventure-works\diane2;Production Technician - WC50;09-08-1989;S;F;18-01-2009;0;8;24;1;2014-06-30 00:00:00.000;0x7AE194
+62;494170342;adventure-works\john0;Production Supervisor - WC60;07-08-1956;M;M;17-03-2008;0;81;60;1;2014-06-30 00:00:00.000;0x7AE3
+63;414476027;adventure-works\maciej0;Production Technician - WC60;30-01-1955;S;M;29-01-2010;0;30;35;1;2014-06-30 00:00:00.000;0x7AE358
+64;582347317;adventure-works\michael7;Production Technician - WC60;05-09-1973;S;M;23-02-2010;0;26;33;1;2014-06-30 00:00:00.000;0x7AE368
+65;8066363;adventure-works\randy0;Production Technician - WC60;28-04-1970;M;M;23-02-2010;0;29;34;1;2014-06-30 00:00:00.000;0x7AE378
+66;834186596;adventure-works\karan0;Production Technician - WC60;07-03-1970;S;M;22-12-2009;0;28;34;1;2014-06-30 00:00:00.000;0x7AE384
+67;63179277;adventure-works\jay0;Production Technician - WC60;11-02-1976;S;M;05-03-2009;0;32;36;1;2014-06-30 00:00:00.000;0x7AE38C
+68;537092325;adventure-works\charles0;Production Technician - WC60;02-09-1971;S;M;03-12-2009;0;27;33;1;2014-06-30 00:00:00.000;0x7AE394
+69;752513276;adventure-works\steve0;Production Technician - WC60;06-04-1991;S;M;15-02-2009;0;31;35;1;2014-06-30 00:00:00.000;0x7AE39C
+70;36151748;adventure-works\david2;Production Technician - WC60;29-12-1984;M;M;15-12-2008;0;33;36;1;2014-06-30 00:00:00.000;0x7AE3A2
+71;578935259;adventure-works\michael3;Production Supervisor - WC30;29-01-1989;S;M;15-02-2009;0;70;55;1;2014-06-30 00:00:00.000;0x7AE5
+72;443968955;adventure-works\steven0;Production Technician - WC30;14-05-1977;M;M;01-12-2008;0;41;40;1;2014-06-30 00:00:00.000;0x7AE558
+73;138280935;adventure-works\carole0;Production Technician - WC30;19-10-1983;M;F;19-12-2008;0;42;41;1;2014-06-30 00:00:00.000;0x7AE568
+74;420023788;adventure-works\bjorn0;Production Technician - WC30;06-11-1989;S;M;07-01-2009;0;43;41;1;2014-06-30 00:00:00.000;0x7AE578
+75;363996959;adventure-works\michiko0;Production Technician - WC30;27-06-1982;S;M;26-01-2009;0;44;42;1;2014-06-30 00:00:00.000;0x7AE584
+76;227319668;adventure-works\carol0;Production Technician - WC30;17-10-1988;M;F;12-02-2009;0;45;42;1;2014-06-30 00:00:00.000;0x7AE58C
+77;301435199;adventure-works\merav0;Production Technician - WC30;13-05-1983;M;F;03-03-2009;0;46;43;1;2014-06-30 00:00:00.000;0x7AE594
+78;370989364;adventure-works\reuben0;Production Supervisor - WC40;27-08-1987;M;M;15-12-2008;0;72;56;1;2014-06-30 00:00:00.000;0x7AE7
+79;697712387;adventure-works\eric1;Production Technician - WC40;08-12-1966;M;M;24-01-2010;0;60;50;1;2014-06-30 00:00:00.000;0x7AE758
+80;943170460;adventure-works\sandeep0;Production Technician - WC40;03-12-1970;S;M;17-01-2010;0;65;52;1;2014-06-30 00:00:00.000;0x7AE768
+81;413787783;adventure-works\mihail0;Production Technician - WC40;09-03-1971;S;M;29-12-2009;0;64;52;1;2014-06-30 00:00:00.000;0x7AE778
+82;58791499;adventure-works\jack1;Production Technician - WC40;29-08-1973;S;M;03-03-2010;0;62;51;1;2014-06-30 00:00:00.000;0x7AE784
+83;988315686;adventure-works\patrick1;Production Technician - WC40;23-12-1973;M;M;12-02-2010;0;61;50;1;2014-06-30 00:00:00.000;0x7AE78C
+84;947029962;adventure-works\frank3;Production Technician - WC40;02-03-1952;M;M;05-02-2010;0;66;53;1;2014-06-30 00:00:00.000;0x7AE794
+85;1662732;adventure-works\brian2;Production Technician - WC40;23-12-1970;S;M;11-12-2009;0;63;51;1;2014-06-30 00:00:00.000;0x7AE79C
+86;769680433;adventure-works\ryan0;Production Technician - WC40;13-06-1972;M;M;05-01-2009;0;59;49;1;2014-06-30 00:00:00.000;0x7AE7A2
+87;7201901;adventure-works\cristian0;Production Supervisor - WC10;11-04-1984;M;M;22-12-2008;0;67;53;1;2014-06-30 00:00:00.000;0x7AE880
+88;294148271;adventure-works\betsy0;Production Technician - WC10;17-12-1966;S;F;18-12-2009;0;99;69;1;2014-06-30 00:00:00.000;0x7AE8AC
+89;90888098;adventure-works\patrick0;Production Technician - WC10;10-09-1986;S;M;01-02-2010;0;96;68;1;2014-06-30 00:00:00.000;0x7AE8B4
+90;82638150;adventure-works\danielle0;Production Technician - WC10;07-09-1986;S;F;20-02-2010;0;97;68;1;2014-06-30 00:00:00.000;0x7AE8BC
+91;390124815;adventure-works\kimberly0;Production Technician - WC10;13-09-1986;S;F;12-01-2010;0;95;67;1;2014-06-30 00:00:00.000;0x7AE8C2
+92;826454897;adventure-works\tom0;Production Technician - WC10;01-10-1986;M;M;10-03-2010;0;98;69;1;2014-06-30 00:00:00.000;0x7AE8C6
+93;778552911;adventure-works\kok-ho0;Production Supervisor - WC50;28-04-1980;S;M;27-12-2008;0;78;59;1;2014-06-30 00:00:00.000;0x7AE980
+94;718299860;adventure-works\russell0;Production Technician - WC50;25-11-1972;M;M;12-12-2008;0;6;23;1;2014-06-30 00:00:00.000;0x7AE9AC
+95;674171828;adventure-works\jim0;Production Technician - WC50;08-09-1986;M;M;19-12-2008;0;1;20;1;2014-06-30 00:00:00.000;0x7AE9B4
+96;912141525;adventure-works\elizabeth0;Production Technician - WC50;25-01-1990;M;F;02-03-2009;0;5;22;1;2014-06-30 00:00:00.000;0x7AE9BC
+97;370581729;adventure-works\mandar0;Production Technician - WC50;21-03-1986;S;M;10-02-2009;0;0;20;1;2014-06-30 00:00:00.000;0x7AE9C2
+98;152085091;adventure-works\sameer0;Production Technician - WC50;26-06-1978;M;M;11-02-2009;0;4;22;1;2014-06-30 00:00:00.000;0x7AE9C6
+99;431859843;adventure-works\nuan0;Production Technician - WC50;29-03-1979;S;M;06-01-2009;0;2;21;1;2014-06-30 00:00:00.000;0x7AE9CA
+100;204035155;adventure-works\lolan0;Production Technician - WC50;24-01-1973;M;M;12-01-2009;0;7;23;1;2014-06-30 00:00:00.000;0x7AE9CE
+101;153288994;adventure-works\houman0;Production Technician - WC50;30-08-1971;M;M;25-01-2009;0;3;21;1;2014-06-30 00:00:00.000;0x7AE9D1
+102;360868122;adventure-works\zheng0;Production Supervisor - WC10;26-10-1983;S;M;03-12-2008;0;66;53;1;2014-06-30 00:00:00.000;0x7AEA80
+103;455563743;adventure-works\ebru0;Production Technician - WC10;22-09-1986;S;M;06-12-2009;0;93;66;1;2014-06-30 00:00:00.000;0x7AEAAC
+104;717889520;adventure-works\mary1;Production Technician - WC10;19-09-1986;M;F;25-12-2009;0;94;67;1;2014-06-30 00:00:00.000;0x7AEAB4
+105;801365500;adventure-works\kevin2;Production Technician - WC10;19-09-1986;S;M;25-12-2009;0;90;65;1;2014-06-30 00:00:00.000;0x7AEABC
+106;561196580;adventure-works\john4;Production Technician - WC10;28-09-1986;S;M;27-02-2010;0;92;66;1;2014-06-30 00:00:00.000;0x7AEAC2
+107;393421437;adventure-works\christopher0;Production Technician - WC10;01-10-1986;M;M;08-02-2010;0;91;65;1;2014-06-30 00:00:00.000;0x7AEAC6
+108;630184120;adventure-works\jinghao0;Production Supervisor - WC50;05-02-1989;S;M;08-12-2008;0;77;58;1;2014-06-30 00:00:00.000;0x7AEB80
+109;113695504;adventure-works\alice0;Production Technician - WC50;26-01-1978;M;F;07-12-2008;0;95;67;1;2014-06-30 00:00:00.000;0x7AEBAC
+110;857651804;adventure-works\jun0;Production Technician - WC50;06-07-1979;S;M;14-12-2008;0;90;65;1;2014-06-30 00:00:00.000;0x7AEBB4
+111;415823523;adventure-works\suroor0;Production Technician - WC50;25-02-1978;S;M;17-12-2008;0;93;66;1;2014-06-30 00:00:00.000;0x7AEBBC
+112;981597097;adventure-works\john1;Production Technician - WC50;31-05-1978;S;M;01-01-2009;0;91;65;1;2014-06-30 00:00:00.000;0x7AEBC2
+113;54759846;adventure-works\linda0;Production Technician - WC50;17-07-1987;M;F;25-12-2008;0;96;68;1;2014-06-30 00:00:00.000;0x7AEBC6
+114;342607223;adventure-works\mindaugas0;Production Technician - WC50;07-05-1978;M;M;13-01-2009;0;97;68;1;2014-06-30 00:00:00.000;0x7AEBCA
+115;563680513;adventure-works\angela0;Production Technician - WC50;31-05-1991;S;F;20-01-2009;0;92;66;1;2014-06-30 00:00:00.000;0x7AEBCE
+116;398737566;adventure-works\michael2;Production Technician - WC50;03-05-1974;S;M;31-01-2009;0;98;69;1;2014-06-30 00:00:00.000;0x7AEBD1
+117;599942664;adventure-works\chad0;Production Technician - WC50;04-08-1990;M;M;18-02-2009;0;99;69;1;2014-06-30 00:00:00.000;0x7AEBD3
+118;222400012;adventure-works\don0;Production Technician - WC50;13-06-1971;M;M;13-02-2009;0;88;64;1;2014-06-30 00:00:00.000;0x7AEBD5
+119;334834274;adventure-works\michael4;Production Technician - WC50;15-06-1989;S;M;25-02-2009;0;94;67;1;2014-06-30 00:00:00.000;0x7AEBD7
+120;211789056;adventure-works\kitti0;Production Technician - WC50;06-06-1987;S;F;04-03-2009;0;89;64;1;2014-06-30 00:00:00.000;0x7AEBD9
+121;521265716;adventure-works\pilar0;Shipping and Receiving Supervisor;09-09-1972;S;M;02-01-2009;1;93;66;1;2014-06-30 00:00:00.000;0x7AEC80
+122;586486572;adventure-works\susan0;Stocker;17-02-1978;S;F;07-12-2008;0;97;68;1;2014-06-30 00:00:00.000;0x7AECAC
+123;337752649;adventure-works\vamsi0;Shipping and Receiving Clerk;18-03-1977;M;M;07-12-2008;0;95;67;1;2014-06-30 00:00:00.000;0x7AECB4
+124;420776180;adventure-works\kim0;Stocker;30-04-1984;S;F;26-12-2008;0;98;69;1;2014-06-30 00:00:00.000;0x7AECBC
+125;584205124;adventure-works\matthias0;Shipping and Receiving Clerk;11-11-1973;M;M;20-01-2009;0;94;67;1;2014-06-30 00:00:00.000;0x7AECC2
+126;652779496;adventure-works\jimmy0;Stocker;04-05-1985;M;M;26-02-2009;0;96;68;1;2014-06-30 00:00:00.000;0x7AECC6
+127;750905084;adventure-works\david4;Production Supervisor - WC40;02-07-1983;S;M;03-01-2009;0;73;56;1;2014-06-30 00:00:00.000;0x7AED80
+128;384162788;adventure-works\paul0;Production Technician - WC40;13-11-1980;S;M;04-12-2008;0;68;54;1;2014-06-30 00:00:00.000;0x7AEDAC
+129;502058701;adventure-works\gary0;Production Technician - WC40;16-05-1988;S;M;22-12-2008;0;69;54;1;2014-06-30 00:00:00.000;0x7AEDB4
+130;578953538;adventure-works\rob1;Production Technician - WC40;04-08-1973;S;M;13-02-2009;0;71;55;1;2014-06-30 00:00:00.000;0x7AEDBC
+131;273260055;adventure-works\baris0;Production Technician - WC40;07-10-1990;S;M;15-02-2009;0;72;56;1;2014-06-30 00:00:00.000;0x7AEDC2
+132;1300049;adventure-works\nicole0;Production Technician - WC40;09-04-1986;M;F;22-02-2009;0;67;53;1;2014-06-30 00:00:00.000;0x7AEDC6
+133;830150469;adventure-works\michael1;Production Technician - WC40;04-01-1991;S;M;10-01-2009;0;70;55;1;2014-06-30 00:00:00.000;0x7AEDCA
+134;45615666;adventure-works\eric0;Production Supervisor - WC20;19-01-1985;M;M;14-01-2009;0;40;40;1;2014-06-30 00:00:00.000;0x7AEE80
+135;964089218;adventure-works\ivo0;Production Technician - WC20;03-01-1982;M;M;04-12-2008;0;9;24;1;2014-06-30 00:00:00.000;0x7AEEAC
+136;701156975;adventure-works\sylvester0;Production Technician - WC20;12-11-1970;M;M;11-12-2009;0;4;22;1;2014-06-30 00:00:00.000;0x7AEEB4
+137;63761469;adventure-works\anibal0;Production Technician - WC20;05-09-1974;S;F;23-02-2009;0;8;24;1;2014-06-30 00:00:00.000;0x7AEEBC
+138;25011600;adventure-works\samantha0;Production Technician - WC20;22-11-1987;M;F;04-02-2009;0;7;23;1;2014-06-30 00:00:00.000;0x7AEEC2
+139;113393530;adventure-works\hung-fu0;Production Technician - WC20;23-10-1971;S;M;06-01-2010;0;0;20;1;2014-06-30 00:00:00.000;0x7AEEC6
+140;339233463;adventure-works\prasanna0;Production Technician - WC20;30-04-1953;M;M;22-01-2010;0;5;22;1;2014-06-30 00:00:00.000;0x7AEECA
+141;872923042;adventure-works\min0;Production Technician - WC20;10-09-1974;M;M;24-01-2010;0;1;20;1;2014-06-30 00:00:00.000;0x7AEECE
+142;163347032;adventure-works\olinda0;Production Technician - WC20;04-04-1970;S;F;04-03-2010;0;3;21;1;2014-06-30 00:00:00.000;0x7AEED1
+143;56772045;adventure-works\krishna0;Production Technician - WC20;05-09-1971;S;M;13-02-2010;0;2;21;1;2014-06-30 00:00:00.000;0x7AEED3
+144;886023130;adventure-works\paul1;Production Technician - WC20;04-11-1990;M;M;17-01-2009;0;6;23;1;2014-06-30 00:00:00.000;0x7AEED5
+145;386315192;adventure-works\cynthia0;Production Supervisor - WC30;18-08-1981;S;F;27-01-2009;0;69;54;1;2014-06-30 00:00:00.000;0x7AEF80
+146;160739235;adventure-works\jianshuo0;Production Technician - WC30;25-06-1989;S;M;07-12-2008;0;36;38;1;2014-06-30 00:00:00.000;0x7AEFAC
+147;604664374;adventure-works\sandra0;Production Technician - WC30;05-11-1975;M;F;26-12-2008;0;37;38;1;2014-06-30 00:00:00.000;0x7AEFB4
+148;733022683;adventure-works\jason0;Production Technician - WC30;07-12-1988;S;M;14-01-2009;0;38;39;1;2014-06-30 00:00:00.000;0x7AEFBC
+149;764853868;adventure-works\andy0;Production Technician - WC30;20-10-1983;M;M;31-01-2009;0;39;39;1;2014-06-30 00:00:00.000;0x7AEFC2
+150;878395493;adventure-works\michael5;Production Technician - WC30;18-09-1982;M;M;26-02-2009;0;35;37;1;2014-06-30 00:00:00.000;0x7AEFC6
+151;993310268;adventure-works\rostislav0;Production Technician - WC30;13-09-1977;M;M;19-02-2009;0;40;40;1;2014-06-30 00:00:00.000;0x7AEFCA
+152;319472946;adventure-works\yuhong0;Production Supervisor - WC20;06-04-1977;M;M;01-02-2009;0;41;40;1;2014-06-30 00:00:00.000;0x7AF044
+153;568596888;adventure-works\hanying0;Production Technician - WC20;16-10-1974;S;M;16-12-2008;0;15;27;1;2014-06-30 00:00:00.000;0x7AF04560
+154;97728960;adventure-works\raymond0;Production Technician - WC20;02-03-1967;M;M;23-12-2008;0;10;25;1;2014-06-30 00:00:00.000;0x7AF045A0
+155;212801092;adventure-works\fadi0;Production Technician - WC20;15-02-1989;S;M;04-01-2009;0;16;28;1;2014-06-30 00:00:00.000;0x7AF045E0
+156;322160340;adventure-works\lane0;Production Technician - WC20;23-09-1974;M;M;11-01-2009;0;11;25;1;2014-06-30 00:00:00.000;0x7AF04610
+157;812797414;adventure-works\linda1;Production Technician - WC20;05-10-1977;S;F;03-02-2009;0;12;26;1;2014-06-30 00:00:00.000;0x7AF04630
+158;300946911;adventure-works\shelley0;Production Technician - WC20;08-12-1986;S;F;07-03-2009;0;14;27;1;2014-06-30 00:00:00.000;0x7AF04650
+159;404159499;adventure-works\terrence0;Production Technician - WC20;08-12-1984;S;M;16-02-2009;0;13;26;1;2014-06-30 00:00:00.000;0x7AF04670
+160;712885347;adventure-works\jeff0;Production Supervisor - WC45;15-01-1977;M;M;21-01-2009;0;74;57;1;2014-06-30 00:00:00.000;0x7AF04C
+161;275962311;adventure-works\kirk0;Production Technician - WC45;06-02-1985;S;M;15-12-2008;0;74;57;1;2014-06-30 00:00:00.000;0x7AF04D60
+162;514829225;adventure-works\laura0;Production Technician - WC45;25-12-1980;S;F;03-01-2009;0;75;57;1;2014-06-30 00:00:00.000;0x7AF04DA0
+163;377784364;adventure-works\alex0;Production Technician - WC45;13-04-1990;M;M;08-02-2009;0;77;58;1;2014-06-30 00:00:00.000;0x7AF04DE0
+164;65848458;adventure-works\andrew1;Production Technician - WC45;24-09-1988;S;M;06-03-2009;0;73;56;1;2014-06-30 00:00:00.000;0x7AF04E10
+165;539490372;adventure-works\chris0;Production Technician - WC45;16-12-1988;M;M;22-01-2009;0;76;58;1;2014-06-30 00:00:00.000;0x7AF04E30
+166;60114406;adventure-works\jack0;Production Supervisor - WC30;22-06-1983;S;M;21-02-2009;0;68;54;1;2014-06-30 00:00:00.000;0x7AF054
+167;498138869;adventure-works\david1;Production Technician - WC30;02-11-1979;S;M;02-12-2008;0;25;32;1;2014-06-30 00:00:00.000;0x7AF05560
+168;271438431;adventure-works\garrett0;Production Technician - WC30;25-08-1984;S;M;07-12-2008;0;34;37;1;2014-06-30 00:00:00.000;0x7AF055A0
+169;351069889;adventure-works\susan1;Production Technician - WC30;02-04-1983;S;F;14-12-2008;0;31;35;1;2014-06-30 00:00:00.000;0x7AF055E0
+170;476115505;adventure-works\george0;Production Technician - WC30;16-04-1977;M;M;21-12-2008;0;26;33;1;2014-06-30 00:00:00.000;0x7AF05610
+171;746373306;adventure-works\david3;Production Technician - WC30;03-08-1981;S;M;02-01-2009;0;32;36;1;2014-06-30 00:00:00.000;0x7AF05630
+172;364818297;adventure-works\marc0;Production Technician - WC30;24-10-1986;M;M;16-01-2009;0;22;31;1;2014-06-30 00:00:00.000;0x7AF05650
+173;87268837;adventure-works\eugene0;Production Technician - WC30;15-07-1987;S;M;21-01-2009;0;33;36;1;2014-06-30 00:00:00.000;0x7AF05670
+174;585408256;adventure-works\benjamin0;Production Technician - WC30;05-01-1986;S;M;27-01-2009;0;28;34;1;2014-06-30 00:00:00.000;0x7AF05688
+175;259388196;adventure-works\reed0;Production Technician - WC30;08-01-1989;M;M;02-02-2009;0;23;31;1;2014-06-30 00:00:00.000;0x7AF05698
+176;860123571;adventure-works\david7;Production Technician - WC30;23-09-1985;M;M;14-02-2009;0;29;34;1;2014-06-30 00:00:00.000;0x7AF056A8
+177;551346974;adventure-works\russell1;Production Technician - WC30;11-02-1982;M;M;21-02-2009;0;24;32;1;2014-06-30 00:00:00.000;0x7AF056B8
+178;568626529;adventure-works\john3;Production Technician - WC30;24-03-1982;S;M;03-03-2009;0;27;33;1;2014-06-30 00:00:00.000;0x7AF056C8
+179;587567941;adventure-works\jan0;Production Technician - WC30;15-11-1974;S;M;05-03-2009;0;30;35;1;2014-06-30 00:00:00.000;0x7AF056D8
+180;862951447;adventure-works\katie0;Production Supervisor - WC20;18-11-1984;S;F;20-02-2009;0;42;41;1;2014-06-30 00:00:00.000;0x7AF05C
+181;545337468;adventure-works\michael0;Production Technician - WC20;17-11-1984;S;M;09-12-2008;0;20;30;1;2014-06-30 00:00:00.000;0x7AF05D60
+182;368920189;adventure-works\nitin0;Production Technician - WC20;01-12-1986;S;M;28-12-2008;0;21;30;1;2014-06-30 00:00:00.000;0x7AF05DA0
+183;969985265;adventure-works\barbara0;Production Technician - WC20;02-07-1979;M;F;22-01-2009;0;17;28;1;2014-06-30 00:00:00.000;0x7AF05DE0
+184;305522471;adventure-works\john2;Production Technician - WC20;05-04-1986;M;M;09-02-2009;0;18;29;1;2014-06-30 00:00:00.000;0x7AF05E10
+185;621932914;adventure-works\stefen0;Production Technician - WC20;21-12-1975;S;M;28-02-2009;0;19;29;1;2014-06-30 00:00:00.000;0x7AF05E30
+186;551834634;adventure-works\shane0;Production Supervisor - WC45;24-05-1990;S;M;08-02-2009;0;75;57;1;2014-06-30 00:00:00.000;0x7AF064
+187;713403643;adventure-works\yvonne0;Production Technician - WC45;15-04-1989;M;F;09-12-2008;0;79;59;1;2014-06-30 00:00:00.000;0x7AF06560
+188;435234965;adventure-works\douglas0;Production Technician - WC45;24-11-1985;M;M;27-12-2008;0;80;60;1;2014-06-30 00:00:00.000;0x7AF065A0
+189;187369436;adventure-works\janeth0;Production Technician - WC45;24-07-1972;S;F;15-01-2009;0;81;60;1;2014-06-30 00:00:00.000;0x7AF065E0
+190;456839592;adventure-works\robert0;Production Technician - WC45;28-02-1985;S;M;02-02-2009;0;82;61;1;2014-06-30 00:00:00.000;0x7AF06610
+191;399658727;adventure-works\lionel0;Production Technician - WC45;14-03-1988;S;M;26-02-2009;0;78;59;1;2014-06-30 00:00:00.000;0x7AF06630
+192;634335025;adventure-works\brenda0;Production Supervisor - WC40;28-02-1983;M;F;05-03-2009;0;71;55;1;2014-06-30 00:00:00.000;0x7AF06C
+193;761597760;adventure-works\alejandro0;Production Technician - WC40;05-12-1988;S;M;06-12-2008;0;52;46;1;2014-06-30 00:00:00.000;0x7AF06D60
+194;295971920;adventure-works\fred0;Production Technician - WC40;25-06-1989;S;M;12-12-2008;0;47;43;1;2014-06-30 00:00:00.000;0x7AF06DA0
+195;918737118;adventure-works\kevin1;Production Technician - WC40;25-12-1985;S;M;17-12-2008;0;58;49;1;2014-06-30 00:00:00.000;0x7AF06DE0
+196;370487086;adventure-works\shammi0;Production Technician - WC40;04-10-1980;M;M;24-12-2008;0;53;46;1;2014-06-30 00:00:00.000;0x7AF06E10
+197;632092621;adventure-works\rajesh0;Production Technician - WC40;04-10-1977;M;M;31-12-2008;0;48;44;1;2014-06-30 00:00:00.000;0x7AF06E30
+198;19312190;adventure-works\lorraine0;Production Technician - WC40;26-11-1988;M;F;04-01-2009;0;49;44;1;2014-06-30 00:00:00.000;0x7AF06E50
+199;992874797;adventure-works\paula1;Production Technician - WC40;10-02-1987;M;F;12-01-2009;0;54;47;1;2014-06-30 00:00:00.000;0x7AF06E70
+200;749211824;adventure-works\frank0;Production Technician - WC40;06-09-1987;M;M;17-01-2009;0;56;48;1;2014-06-30 00:00:00.000;0x7AF06E88
+201;746201340;adventure-works\brian0;Production Technician - WC40;10-02-1977;S;M;29-01-2009;0;55;47;1;2014-06-30 00:00:00.000;0x7AF06E98
+202;436757988;adventure-works\tawana0;Production Technician - WC40;10-11-1989;S;M;05-02-2009;0;50;45;1;2014-06-30 00:00:00.000;0x7AF06EA8
+203;693168613;adventure-works\ken1;Production Technician - WC40;28-05-1981;M;M;24-02-2009;0;51;45;1;2014-06-30 00:00:00.000;0x7AF06EB8
+204;440379437;adventure-works\gabe0;Production Technician - WC40;10-05-1988;M;M;08-03-2009;0;57;48;1;2014-06-30 00:00:00.000;0x7AF06EC8
+205;332349500;adventure-works\lori0;Production Supervisor - WC45;18-07-1980;S;F;26-02-2009;0;76;58;1;2014-06-30 00:00:00.000;0x7AF074
+206;835460180;adventure-works\stuart0;Production Technician - WC45;13-09-1962;S;M;02-12-2008;0;84;62;1;2014-06-30 00:00:00.000;0x7AF07560
+207;687685941;adventure-works\greg0;Production Technician - WC45;18-10-1970;S;M;02-12-2008;0;85;62;1;2014-06-30 00:00:00.000;0x7AF075A0
+208;199546871;adventure-works\scott0;Production Technician - WC45;10-02-1987;M;M;08-01-2009;0;86;63;1;2014-06-30 00:00:00.000;0x7AF075E0
+209;167554340;adventure-works\kathie0;Production Technician - WC45;01-11-1990;M;F;27-01-2009;0;87;63;1;2014-06-30 00:00:00.000;0x7AF07610
+210;20244403;adventure-works\belinda0;Production Technician - WC45;17-09-1969;S;F;20-02-2009;0;83;61;1;2014-06-30 00:00:00.000;0x7AF07630
+211;398223854;adventure-works\hazem0;Quality Assurance Manager;26-10-1977;S;M;28-02-2009;1;80;60;1;2014-12-26 09:17:08.637;0x7B40
+212;885055826;adventure-works\peng0;Quality Assurance Supervisor;18-03-1976;M;M;09-12-2008;1;81;60;1;2014-06-30 00:00:00.000;0x7B56
+213;343861179;adventure-works\sootha0;Quality Assurance Technician;05-12-1966;M;M;23-02-2010;0;85;62;1;2014-06-30 00:00:00.000;0x7B56B0
+214;131471224;adventure-works\andreas0;Quality Assurance Technician;28-03-1989;M;M;02-02-2009;0;84;62;1;2014-06-30 00:00:00.000;0x7B56D0
+215;381772114;adventure-works\mark0;Quality Assurance Technician;30-04-1986;S;M;15-01-2009;0;83;61;1;2014-06-30 00:00:00.000;0x7B56F0
+216;403414852;adventure-works\sean0;Quality Assurance Technician;06-03-1976;S;M;28-12-2008;0;82;61;1;2014-06-30 00:00:00.000;0x7B5708
+217;345106466;adventure-works\zainal0;Document Control Manager;30-01-1976;M;M;04-01-2009;0;77;58;1;2014-06-30 00:00:00.000;0x7B5A
+218;540688287;adventure-works\tengiz0;Control Specialist;28-04-1990;S;M;16-12-2008;0;76;58;1;2014-06-30 00:00:00.000;0x7B5AB0
+219;242381745;adventure-works\sean1;Document Control Assistant;12-03-1987;S;M;22-01-2009;0;78;59;1;2014-06-30 00:00:00.000;0x7B5AD0
+220;260770918;adventure-works\karen0;Document Control Assistant;25-12-1975;M;F;09-02-2009;0;79;59;1;2014-06-30 00:00:00.000;0x7B5AF0
+221;260805477;adventure-works\chris1;Control Specialist;26-05-1987;M;M;06-03-2009;0;75;57;1;2014-06-30 00:00:00.000;0x7B5B08
+222;685233686;adventure-works\ascott0;Master Scheduler;17-09-1968;S;M;12-12-2008;0;44;42;1;2014-12-26 09:17:08.637;0x7BC0
+223;981495526;adventure-works\sairaj0;Scheduling Assistant;22-12-1987;M;M;26-01-2009;0;46;43;1;2014-06-30 00:00:00.000;0x7BD6
+224;621209647;adventure-works\william0;Scheduling Assistant;06-11-1981;M;M;07-01-2009;0;45;42;1;2014-06-30 00:00:00.000;0x7BDA
+225;470689086;adventure-works\alan0;Scheduling Assistant;29-03-1984;M;M;13-02-2009;0;47;43;1;2014-06-30 00:00:00.000;0x7BDE
+226;368691270;adventure-works\brian1;Scheduling Assistant;11-08-1984;M;M;03-03-2009;0;48;44;1;2014-06-30 00:00:00.000;0x7BE1
+227;141165819;adventure-works\gary1;Facilities Manager;18-02-1971;M;M;02-12-2009;1;86;63;1;2014-06-30 00:00:00.000;0x7C20
+228;553069203;adventure-works\christian0;Maintenance Supervisor;18-01-1976;M;M;14-12-2008;1;92;66;1;2014-06-30 00:00:00.000;0x7C2B
+229;879334904;adventure-works\lori1;Janitor;31-07-1970;M;F;16-02-2010;0;90;65;1;2014-06-30 00:00:00.000;0x7C2B58
+230;28414965;adventure-works\stuart1;Janitor;17-12-1971;M;M;05-03-2010;0;88;64;1;2014-06-30 00:00:00.000;0x7C2B68
+231;153479919;adventure-works\jo1;Janitor;24-04-1954;M;F;07-03-2010;0;91;65;1;2014-06-30 00:00:00.000;0x7C2B78
+232;646304055;adventure-works\pat0;Janitor;03-12-1970;S;M;27-01-2010;0;89;64;1;2014-06-30 00:00:00.000;0x7C2B84
+233;552560652;adventure-works\magnus0;Facilities Administrative Assistant;27-08-1971;M;M;21-12-2009;0;87;63;1;2014-06-30 00:00:00.000;0x7C2D
+234;184188301;adventure-works\laura1;Chief Financial Officer;06-01-1976;M;F;31-01-2009;1;0;20;1;2014-06-30 00:00:00.000;0x84
+235;535145551;adventure-works\paula0;Human Resources Manager;11-02-1976;M;F;06-12-2008;1;54;47;1;2014-06-30 00:00:00.000;0x8560
+236;476980013;adventure-works\grant0;Human Resources Administrative Assistant;16-04-1976;S;M;25-02-2009;0;53;46;1;2014-06-30 00:00:00.000;0x856B
+237;416679555;adventure-works\hao0;Human Resources Administrative Assistant;17-04-1977;S;M;06-02-2009;0;52;46;1;2014-06-30 00:00:00.000;0x856D
+238;264306399;adventure-works\vidur0;Recruiter;01-08-1984;S;M;01-01-2009;0;50;45;1;2014-06-30 00:00:00.000;0x856F
+239;619308550;adventure-works\mindy0;Benefits Specialist;20-11-1984;M;F;25-12-2008;0;51;45;1;2014-06-30 00:00:00.000;0x857080
+240;332040978;adventure-works\willis0;Recruiter;18-07-1978;S;M;13-12-2008;0;49;44;1;2014-06-30 00:00:00.000;0x857180
+241;30845;adventure-works\david6;Accounts Manager;08-07-1983;M;M;30-01-2009;1;57;48;1;2014-06-30 00:00:00.000;0x85A0
+242;363923697;adventure-works\deborah0;Accounts Receivable Specialist;06-03-1976;M;F;18-12-2008;0;60;50;1;2014-06-30 00:00:00.000;0x85AB
+243;60517918;adventure-works\candy0;Accounts Receivable Specialist;23-02-1976;S;F;06-01-2009;0;61;50;1;2014-06-30 00:00:00.000;0x85AD
+244;931190412;adventure-works\bryan1;Accounts Receivable Specialist;20-09-1984;S;M;24-01-2009;0;62;51;1;2014-06-30 00:00:00.000;0x85AF
+245;363910111;adventure-works\barbara1;Accountant;04-01-1976;M;F;18-02-2009;1;58;49;1;2014-06-30 00:00:00.000;0x85B080
+246;663843431;adventure-works\dragan0;Accounts Payable Specialist;14-02-1977;M;M;11-02-2009;0;63;51;1;2014-06-30 00:00:00.000;0x85B180
+247;519756660;adventure-works\janet0;Accounts Payable Specialist;09-03-1979;M;F;01-03-2009;0;64;52;1;2014-06-30 00:00:00.000;0x85B280
+248;480951955;adventure-works\mike0;Accountant;01-07-1979;S;M;08-03-2009;1;59;49;1;2014-06-30 00:00:00.000;0x85B380
+249;121491555;adventure-works\wendy0;Finance Manager;11-10-1984;S;F;25-12-2008;1;55;47;1;2014-06-30 00:00:00.000;0x85E0
+250;895209680;adventure-works\sheela0;Purchasing Manager;10-02-1978;S;F;25-02-2011;1;49;44;1;2014-06-30 00:00:00.000;0x85EB
+251;603686790;adventure-works\mikael0;Buyer;17-08-1984;S;M;10-02-2009;0;59;49;1;2014-06-30 00:00:00.000;0x85EB58
+252;792847334;adventure-works\arvind0;Buyer;21-08-1974;M;M;28-02-2009;0;60;50;1;2014-06-30 00:00:00.000;0x85EB68
+253;407505660;adventure-works\linda2;Buyer;30-11-1970;M;F;17-12-2009;0;56;48;1;2014-06-30 00:00:00.000;0x85EB78
+254;482810518;adventure-works\fukiko0;Buyer;24-11-1970;M;M;04-01-2010;0;57;48;1;2014-06-30 00:00:00.000;0x85EB84
+255;466142721;adventure-works\gordon0;Buyer;29-11-1966;M;M;11-01-2010;0;52;46;1;2014-06-30 00:00:00.000;0x85EB8C
+256;367453993;adventure-works\frank2;Buyer;12-05-1952;M;M;23-01-2010;0;58;49;1;2014-06-30 00:00:00.000;0x85EB94
+257;381073001;adventure-works\eric2;Buyer;17-09-1972;S;M;27-01-2010;0;54;47;1;2014-06-30 00:00:00.000;0x85EB9C
+258;785853949;adventure-works\erin0;Buyer;04-01-1971;S;F;31-01-2010;0;53;46;1;2014-06-30 00:00:00.000;0x85EBA2
+259;20269531;adventure-works\ben0;Buyer;03-06-1973;M;M;09-03-2010;0;55;47;1;2014-06-30 00:00:00.000;0x85EBA6
+260;437296311;adventure-works\annette0;Purchasing Assistant;29-01-1978;M;F;06-12-2010;0;50;45;1;2014-06-30 00:00:00.000;0x85EBAA
+261;280633567;adventure-works\reinout0;Purchasing Assistant;17-01-1978;M;M;25-12-2010;0;51;45;1;2014-06-30 00:00:00.000;0x85EBAE
+262;231203233;adventure-works\david5;Assistant to the Chief Financial Officer;21-06-1964;S;M;12-01-2009;0;56;48;1;2014-06-30 00:00:00.000;0x8610
+263;441044382;adventure-works\jean0;Information Services Manager;13-12-1975;S;F;11-12-2008;1;65;52;1;2014-06-30 00:00:00.000;0x8C
+264;858323870;adventure-works\stephanie0;Network Manager;25-03-1984;S;F;04-02-2009;1;68;54;1;2014-06-30 00:00:00.000;0x8D60
+265;749389530;adventure-works\ashvini0;Network Administrator;27-03-1977;S;M;04-12-2008;0;70;55;1;2014-06-30 00:00:00.000;0x8D6B
+266;672243793;adventure-works\peter1;Network Administrator;28-05-1980;S;M;23-02-2009;0;69;54;1;2014-06-30 00:00:00.000;0x8D6D
+267;58317344;adventure-works\karen1;Application Specialist;19-05-1978;S;F;16-02-2009;1;74;57;1;2014-06-30 00:00:00.000;0x8DA0
+268;314747499;adventure-works\ramesh0;Application Specialist;13-03-1988;S;M;03-02-2009;1;73;56;1;2014-06-30 00:00:00.000;0x8DE0
+269;671089628;adventure-works\dan0;Application Specialist;26-05-1987;M;M;11-01-2009;1;72;56;1;2014-06-30 00:00:00.000;0x8E10
+270;643805155;adventure-works\françois0;Database Administrator;17-05-1975;S;M;17-01-2009;1;67;53;1;2014-06-30 00:00:00.000;0x8E30
+271;929666391;adventure-works\dan1;Database Administrator;06-01-1976;M;M;22-01-2009;1;66;53;1;2014-06-30 00:00:00.000;0x8E50
+272;525932996;adventure-works\janaina0;Application Specialist;30-01-1985;M;F;23-12-2008;1;71;55;1;2014-06-30 00:00:00.000;0x8E70
+273;112432117;adventure-works\brian3;Vice President of Sales;06-06-1977;S;M;15-02-2011;1;10;25;1;2014-06-30 00:00:00.000;0x94
+274;502097814;adventure-works\stephen0;North American Sales Manager;17-10-1951;M;M;04-01-2011;1;14;27;1;2014-06-30 00:00:00.000;0x9560
+275;841560125;adventure-works\michael9;Sales Representative;25-12-1968;S;M;31-05-2011;1;38;39;1;2014-06-30 00:00:00.000;0x956B
+276;191644724;adventure-works\linda3;Sales Representative;27-02-1980;M;F;31-05-2011;1;27;33;1;2014-06-30 00:00:00.000;0x956D
+277;615389812;adventure-works\jillian0;Sales Representative;29-08-1962;S;F;31-05-2011;1;24;32;1;2014-06-30 00:00:00.000;0x956F
+278;234474252;adventure-works\garrett1;Sales Representative;04-02-1975;M;M;31-05-2011;1;33;36;1;2014-06-30 00:00:00.000;0x957080
+279;716374314;adventure-works\tsvi0;Sales Representative;18-01-1974;M;M;31-05-2011;1;29;34;1;2014-06-30 00:00:00.000;0x957180
+280;61161660;adventure-works\pamela0;Sales Representative;06-12-1974;S;F;31-05-2011;1;22;31;1;2014-06-30 00:00:00.000;0x957280
+281;139397894;adventure-works\shu0;Sales Representative;09-03-1968;M;M;31-05-2011;1;26;33;1;2014-06-30 00:00:00.000;0x957380
+282;399771412;adventure-works\josé1;Sales Representative;11-12-1963;M;M;31-05-2011;1;31;35;1;2014-06-30 00:00:00.000;0x957440
+283;987554265;adventure-works\david8;Sales Representative;11-02-1974;S;M;31-05-2011;1;23;31;1;2014-06-30 00:00:00.000;0x9574C0
+284;90836195;adventure-works\tete0;Sales Representative;05-01-1978;M;M;30-09-2012;1;39;39;1;2014-06-30 00:00:00.000;0x957540
+285;481044938;adventure-works\syed0;Pacific Sales Manager;11-01-1975;M;M;14-03-2013;1;20;30;1;2014-06-30 00:00:00.000;0x95A0
+286;758596752;adventure-works\lynn0;Sales Representative;14-02-1977;S;F;30-05-2013;1;36;38;1;2014-06-30 00:00:00.000;0x95AB
+287;982310417;adventure-works\amy0;European Sales Manager;20-09-1957;M;F;16-04-2012;1;21;30;1;2014-06-30 00:00:00.000;0x95E0
+288;954276278;adventure-works\rachel0;Sales Representative;09-07-1975;S;F;30-05-2013;1;35;37;1;2014-06-30 00:00:00.000;0x95EB
+289;668991357;adventure-works\jae0;Sales Representative;17-03-1968;M;F;30-05-2012;1;37;38;1;2014-06-30 00:00:00.000;0x95ED
+290;134219713;adventure-works\ranjit0;Sales Representative;30-09-1975;S;M;30-05-2012;1;34;37;1;2014-06-30 00:00:00.000;0x95EF
